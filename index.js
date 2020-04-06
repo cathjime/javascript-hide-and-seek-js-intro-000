@@ -21,8 +21,10 @@ function deepestChild(){
   let nextNode = node.children[0]
   
   while(nextNode){
-    node = 
+    node = nextNode
+    nextNode = node.children[0]
   }
+  
   
   // for (let i = 0; i < ; i++) {
   //   var newEle = child
