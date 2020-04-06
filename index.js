@@ -20,6 +20,10 @@ function deepestChild(){
   let node = document.querySelector('#grand-node') 
   let nextNode = node.children[0]
   
+  while(nextNode){
+    node = 
+  }
+  
   // for (let i = 0; i < ; i++) {
   //   var newEle = child
   //   console.log("my element", newEle)
