@@ -27,14 +27,7 @@ function deepestChild(){
   
   return node;
   
-  
-  // for (let i = 0; i < ; i++) {
-  //   var newEle = child
-  //   console.log("my element", newEle)
-  //   if (document.querySelector(child)){
-  
-  //   }
-  // }
+ 
 }
 	
 
